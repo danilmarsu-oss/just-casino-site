@@ -1,0 +1,10 @@
+[
+  {
+    "task_id": "csv-2",
+    "source_row": "2",
+    "brand": "Justcasino",
+    "geo": "Norway",
+    "page_type": "about us",
+    "error": "HTTP 529: {\"type\":\"error\",\"error\":{\"type\":\"overloaded_error\",\"message\":\"Overloaded\"},\"request_id\":\"req_011CaNPtjf8RHmJXkGmL7GuC\"}"
+  }
+]
